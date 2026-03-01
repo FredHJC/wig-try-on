@@ -8,7 +8,17 @@ export async function generateTryOn(
   wigImageBase64: string,
   wigImageMimeType: string
 ): Promise<{ imageBase64: string; mimeType: string }> {
-  const prompt = `Take the person in the first image and show them wearing the wig/hairstyle from the second image. Keep the person's face, skin tone, and features exactly the same. Only change their hair to match the wig style and color from the second image. Generate a realistic photo of this person with that wig on.`;
+  const prompt = `You are a professional hair stylist photo editor. Your task is to seamlessly place the wig/hairstyle from the second image onto the person in the first image.
+
+CRITICAL RULES for natural blending:
+- The hairline must merge naturally with the forehead — no visible edge or gap between hair and skin.
+- Hair should fall realistically around the face, ears, and shoulders following natural gravity and the person's head angle.
+- Match the lighting, shadows, and color temperature of the original photo so the hair looks like it belongs.
+- Add subtle shadows where the hair meets the forehead and temples.
+- Keep the person's face, skin tone, expression, and all features 100% identical.
+- The output should look like a real photograph, not a collage. A viewer should not be able to tell the hair was edited.
+
+Only change the hair. Output a single photorealistic image.`;
 
   const response = await ai.models.generateContent({
     model: "gemini-3.1-flash-image-preview",
