@@ -1,0 +1,152 @@
+[
+  {
+    "id": "wig-01",
+    "name": "Natural Wave Bob",
+    "price": 29.99,
+    "imageUrl": "/wigs/wig-01.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0CXYZ1234",
+    "description": "A chic shoulder-length wavy bob wig with a natural hairline. Perfect for everyday wear.",
+    "color": "Natural Black",
+    "style": "Bob"
+  },
+  {
+    "id": "wig-02",
+    "name": "Long Straight Silk",
+    "price": 35.99,
+    "imageUrl": "/wigs/wig-02.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0CXYZ1235",
+    "description": "Sleek and silky long straight wig that falls past the shoulders. Heat-resistant fiber.",
+    "color": "Dark Brown",
+    "style": "Straight"
+  },
+  {
+    "id": "wig-03",
+    "name": "Curly Afro Volume",
+    "price": 27.99,
+    "imageUrl": "/wigs/wig-03.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0CXYZ1236",
+    "description": "Full and voluminous curly afro wig. Bouncy curls with a natural look and feel.",
+    "color": "Off Black",
+    "style": "Curly"
+  },
+  {
+    "id": "wig-04",
+    "name": "Blonde Highlight Waves",
+    "price": 42.99,
+    "imageUrl": "/wigs/wig-04.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0CXYZ1237",
+    "description": "Gorgeous blonde highlighted wavy wig with dimension and movement. Beach-wave inspired.",
+    "color": "Blonde Highlight",
+    "style": "Wavy"
+  },
+  {
+    "id": "wig-05",
+    "name": "Pixie Cut Classic",
+    "price": 22.99,
+    "imageUrl": "/wigs/wig-05.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0CXYZ1238",
+    "description": "A timeless pixie cut wig that's easy to style and maintain. Lightweight and comfortable.",
+    "color": "Jet Black",
+    "style": "Pixie"
+  },
+  {
+    "id": "wig-06",
+    "name": "Auburn Red Layers",
+    "price": 38.99,
+    "imageUrl": "/wigs/wig-06.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0CXYZ1239",
+    "description": "Rich auburn red layered wig with face-framing layers. Adds warmth and dimension.",
+    "color": "Auburn Red",
+    "style": "Layered"
+  },
+  {
+    "id": "wig-07",
+    "name": "Deep Wave Lace Front",
+    "price": 49.99,
+    "imageUrl": "/wigs/wig-07.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0CXYZ1240",
+    "description": "Premium deep wave lace front wig with a natural-looking hairline. Pre-plucked.",
+    "color": "Natural Black",
+    "style": "Deep Wave"
+  },
+  {
+    "id": "wig-08",
+    "name": "Platinum Bob",
+    "price": 33.99,
+    "imageUrl": "/wigs/wig-08.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0CXYZ1241",
+    "description": "Trendy platinum blonde bob wig. Sharp cut with a modern edge. Turns heads everywhere.",
+    "color": "Platinum Blonde",
+    "style": "Bob"
+  },
+  {
+    "id": "wig-09",
+    "name": "Ombre Long Straight",
+    "price": 39.99,
+    "imageUrl": "/wigs/wig-09.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0CXYZ1242",
+    "description": "Stunning ombre wig transitioning from dark roots to lighter ends. Extra long length.",
+    "color": "Ombre Brown",
+    "style": "Straight"
+  },
+  {
+    "id": "wig-10",
+    "name": "Kinky Curly Natural",
+    "price": 31.99,
+    "imageUrl": "/wigs/wig-10.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0CXYZ1243",
+    "description": "Beautiful kinky curly wig that mimics natural hair texture. Lightweight and breathable.",
+    "color": "Dark Brown",
+    "style": "Curly"
+  },
+  {
+    "id": "wig-11",
+    "name": "Burgundy Body Wave",
+    "price": 36.99,
+    "imageUrl": "/wigs/wig-11.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0CXYZ1244",
+    "description": "Bold burgundy body wave wig with gorgeous color and movement. Statement-making style.",
+    "color": "Burgundy",
+    "style": "Body Wave"
+  },
+  {
+    "id": "wig-12",
+    "name": "Honey Blonde Curls",
+    "price": 44.99,
+    "imageUrl": "/wigs/wig-12.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0CXYZ1245",
+    "description": "Warm honey blonde wig with loose, romantic curls. Soft and touchable texture.",
+    "color": "Honey Blonde",
+    "style": "Curly"
+  },
+  {
+    "id": "wig-13",
+    "name": "Short Layered Shag",
+    "price": 26.99,
+    "imageUrl": "/wigs/wig-13.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0CXYZ1246",
+    "description": "Trendy short layered shag wig with lots of texture and volume. Effortlessly cool.",
+    "color": "Chestnut Brown",
+    "style": "Layered"
+  },
+  {
+    "id": "wig-14",
+    "name": "Jet Black Bone Straight",
+    "price": 46.99,
+    "imageUrl": "/wigs/wig-14.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0CXYZ1247",
+    "description": "Ultra-sleek bone straight wig in jet black. Mirror-like shine and dramatic length.",
+    "color": "Jet Black",
+    "style": "Straight"
+  },
+  {
+    "id": "wig-15",
+    "name": "Rose Gold Fantasy",
+    "price": 41.99,
+    "imageUrl": "/wigs/wig-15.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0CXYZ1248",
+    "description": "Dreamy rose gold colored wig with soft waves. Unique fashion color for bold looks.",
+    "color": "Rose Gold",
+    "style": "Wavy"
+  }
+]
